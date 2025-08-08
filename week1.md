@@ -24,7 +24,7 @@ var twoSum = function(nums, target) {
 };
 ```
 
-### Valid Anagram - Time Compelxity: O(n log n)
+### Valid Anagram - Time Complexity: O(n log n)
 ```/**
  * @param {string} s
  * @param {string} t
