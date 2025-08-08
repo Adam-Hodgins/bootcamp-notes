@@ -5,7 +5,7 @@ I’m starting my full-stack bootcamp today.
 
 ## DSA Problems
 
-### Two Sum - Time Complexity: O(n)
+### Two Sum - Time Complexity: O(n²)
 ```/**
  * @param {number[]} nums
  * @param {number} target
@@ -24,7 +24,7 @@ var twoSum = function(nums, target) {
 };
 ```
 
-### Valid Anagram - Time Compelxity: O(n)
+### Valid Anagram - Time Compelxity: O(n log n)
 ```/**
  * @param {string} s
  * @param {string} t
