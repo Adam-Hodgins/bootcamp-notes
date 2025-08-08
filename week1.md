@@ -21,8 +21,8 @@ var twoSum = function(nums, target) {
         }
     }
     return [0,0]
-};```
-
+};
+```
 
 ### Valid Anagram - Time Compelxity: O(n)
 ```/**
